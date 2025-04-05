@@ -21,6 +21,7 @@ while m != 0 :
     m = m // 10
     if d == 0 : 
         count += 1
+        
 if count > 0 :
     print("YES")
 else:

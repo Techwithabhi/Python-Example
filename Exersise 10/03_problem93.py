@@ -23,6 +23,7 @@ while m != 0 :
     d = m % 10
     sum = sum + d
     m = m // 10
+    
 if sum == n :
     print("YES")
 else:

@@ -29,6 +29,7 @@ while m != 0 :
     if d != d1 : 
         flag = 1
     m = m // 10 ; q = q // 10
+    
 if flag == 0:
     print("YES")
 else:
