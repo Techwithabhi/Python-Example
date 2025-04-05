@@ -26,7 +26,8 @@ q = n*n
  
 while m != 0 :
     d = m % 10; d1 = q % 10
-    if d != d1 : flag = 1
+    if d != d1 : 
+        flag = 1
     m = m // 10 ; q = q // 10
 if flag == 0:
     print("YES")

@@ -19,7 +19,8 @@ count = 0
 while m != 0 :
     d = m % 10
     m = m // 10
-    if d == 0 : count += 1
+    if d == 0 : 
+        count += 1
 if count > 0 :
     print("YES")
 else:
