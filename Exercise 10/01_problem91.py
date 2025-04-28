@@ -12,6 +12,7 @@ while m != 0 :
     d = m % 10
     m = m // 10
     sum = sum + d
+    
 if n % sum == 0:
     print("YES")
 else:
@@ -30,6 +31,7 @@ while n != 0:
     digit = n % 10
     n = n // 10
     sum += digit
+    
 if org % sum == 0 :
     print("Harshad Number!")
 else:
