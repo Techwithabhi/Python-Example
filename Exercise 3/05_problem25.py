@@ -5,7 +5,6 @@ f = lambda n : 1 if n == 0 else n * f(n -1)
 
 print(f(5))
 
-
 num = int(input('Enter a number: '))   # Like 7
 factorial = 1
 
