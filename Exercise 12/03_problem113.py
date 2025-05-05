@@ -20,7 +20,6 @@ class Point:
     def __repr__(self):
         return ("{0},{1}".format(self.x,self.y))
     
-
 p1 = Point(2, 3)
 p2 = Point(3, 4)
 
