@@ -10,7 +10,6 @@ def isPrime(num):
             return False
     return True
 
-
 def prime_generator(n):
     num = 2
     while n:
@@ -31,7 +30,7 @@ it = prime_generator(x)
 for e in it:
     print(e, end=" ")
 
-
+######################################################################################################################################################
 ## Program to check if a given number is prime or not?
 
 print('EXE : 2')
