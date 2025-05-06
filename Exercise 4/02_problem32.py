@@ -11,18 +11,15 @@ def welcome(fx):
         print("Thanks for using the function")
     return mfx
 
-
 # decoretor function without arguments
 @welcome
 def hello():
     print("Hello !")
 
-
 # decoretor function with arguments
 @welcome
 def add(a,b):
     print(a+b)
-
 
 hello()
 add(1, 3)
@@ -40,11 +37,9 @@ class Calculator:
         result = self.function(*t, **d)
         return result**2
     
-
 @Calculator
 def add(a, b):
     return a + b
-
 
 # add = Calculator(add)
 result = add(10, 50)  # add.__call__(a, b) since function type is callable
