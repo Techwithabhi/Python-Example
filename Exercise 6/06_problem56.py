@@ -14,6 +14,7 @@ def apha(n):
             ch = chr(p)
             p += 1
             print(ch, end="  ")
+            
         print()
 
 apha(5)
@@ -27,6 +28,7 @@ for i in range(n):
     for j in range(i + 1):
         print(chr(p), end="  ")
         p += 1
+        
     print()
 
 ############ REVERSE ############
@@ -41,6 +43,7 @@ for i in range(n):
     for j in range(i, n):
         print(chr(p), end="  ")
         p += 1
+        
     print()
 
 ########## OR ###########
@@ -53,5 +56,6 @@ for i in range(n):
     for j in range(i + 1):
         print(chr(p), end="  ")
         p += 1
+        
     print()
 
