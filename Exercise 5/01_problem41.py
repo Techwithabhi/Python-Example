@@ -1,9 +1,7 @@
 ## What is difference between class object and instance object?
 '''
 Class object is called only once, instance object can be called any no. of times.
-
-Class object declared with class.object
-
+Class object declared with class.objec
 Instance object is declared with t1 = class(positional arguments) ane where the first argument is instance object(t1) implicity. Also int method is called impplicity after declaring instance object.
 '''
 
