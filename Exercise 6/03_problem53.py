@@ -13,6 +13,7 @@ def tri(n):
         for j in range(0, i+1):
             print(num, end="  ")
             num += 1
+            
         print()
 
 
@@ -28,4 +29,5 @@ for i in range(0, n):
     for j in range(0, i+1):
         print(p, end="  ")
         p += 1
+        
     print()
