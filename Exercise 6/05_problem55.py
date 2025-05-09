@@ -9,6 +9,7 @@ E   E   E   E   E   E   E   E   E
 
 def apha(n):
     p = 65
+  
     for i in range(n):
         for j in range(i, n):
             print(" ", end=" ")
@@ -17,6 +18,7 @@ def apha(n):
         for j in range(i):
             print(chr(p), end=" ")
         p += 1
+      
         print()
 
 apha(5)
