@@ -9,6 +9,7 @@ class Test:
         self.a = x
     def get_data(self):
         print("Send code to fetch data from database")
+        
     def f1(self):
         self.get_data()
     def f2(self):
@@ -18,6 +19,7 @@ t1 = Test(4)
 print("Before Monkey Fatching\n ")
 t1.f1()
 t1.f2()
+
 def get_new_data(self):
     print("Some to code fatch data from test data")
 Test.get_data = get_new_data
