@@ -36,4 +36,7 @@ myclass.g = 11   # static veriable
 print(myclass)
 
 
+hi 
+
+
 
