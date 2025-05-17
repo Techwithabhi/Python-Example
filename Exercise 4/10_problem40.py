@@ -18,4 +18,3 @@ print(world.x)
 print(world._world__india)
 
 
-xsfsad
