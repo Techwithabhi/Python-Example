@@ -9,3 +9,5 @@ class test:
         self.b = 20
 t1 = test() # no need to provide the arguments
 print(t1.a, t1.b) 
+
+jksdfhgoisdhg
