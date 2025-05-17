@@ -27,4 +27,4 @@ print("\nAfter Monkey Patching\n")
 t1.f1()
 t1.f2()
 
-oiuhyes
+
