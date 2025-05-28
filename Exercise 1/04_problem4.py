@@ -17,3 +17,4 @@ for character in word:
 
 print(count)
 
+vghuthfdtu6
