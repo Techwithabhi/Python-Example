@@ -16,3 +16,4 @@ for character in word:
         count += 1
 
 print(count)
+
