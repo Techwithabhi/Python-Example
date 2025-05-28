@@ -6,3 +6,4 @@ element = str(input("Enter a Name of 2 words: "))
 string = element
 
 print(string[:: -1])
+
