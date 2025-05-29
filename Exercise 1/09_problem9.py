@@ -14,4 +14,3 @@ for b in numberList:
         a = b  # Update 'a' if 'b' is lesser
 
 print("Minimum number:", a)
- 
