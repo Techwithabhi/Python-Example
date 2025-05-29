@@ -19,4 +19,4 @@ for i in range(n):
     fib.append(fib[-1] + fib[-2])
 
 # Convetrting the list of integers to string
-print(', '.join(str(e) for e in fib))kjdavlhliashfc
+print(', '.join(str(e) for e in fib))
