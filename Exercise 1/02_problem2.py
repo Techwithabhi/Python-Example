@@ -11,3 +11,4 @@ string = s
 print(decimal.Decimal(string))
 print(type(decimal.Decimal(string)))
 
+dhhdfhdf
