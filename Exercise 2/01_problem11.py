@@ -8,3 +8,4 @@ str_word = "".join(word)
 
 print(str_word)
 print(type(str_word))
+456555
