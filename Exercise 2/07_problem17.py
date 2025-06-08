@@ -13,4 +13,3 @@ def count_sp_char(string):
 text = 'Hello! How are you? #specialchars! [123]'
 result = count_sp_char(text)
 print(result)  # Print the correct variable
-gcjjskgiqs
