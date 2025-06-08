@@ -6,3 +6,4 @@ from random import shuffle
 lst = ['Python', 'is', 'Very', 'Easy']
 shuffle(lst)
 print(lst)
+grsrger4
