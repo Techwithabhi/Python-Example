@@ -4,7 +4,7 @@
 print('EXE : 1. [For Tuple]')
 
 import random
-
+lkbnbefrlnfler
 def average(*t):
     if len(t) == 0:
         return 0  # Handling empty input
