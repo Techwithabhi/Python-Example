@@ -25,7 +25,7 @@ result2 = average(*random_numbers2)
 print('The Average of Tuple A:', result1)
 print('The Average of Tuple B:', result2)
 
-yujsdglifhbvliehfiosdhloi
+
 
 print('\nEXE : 2. [For Dictionary]')
 
