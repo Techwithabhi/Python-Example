@@ -1,7 +1,7 @@
 
 ## Global variable and local variable
 
-x = 5 # global variable hgtdytduy
+x = 5 # global variable 
 
 def f1():
     global x
