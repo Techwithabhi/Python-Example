@@ -8,7 +8,7 @@ s1 = s.split(" ")
 print(s1)
 
 print('\n')
-
+gdthdhfh
 s2 = s.split('||')
 print(s2)
 
