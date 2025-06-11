@@ -8,7 +8,7 @@ a1 = [2 * e for e in range (1, 11)]
 
 print(a1)
 
-ghchgcjhj
+
 # To create a list of even numbers from a given list
 
 print('\nEXE - 2')
