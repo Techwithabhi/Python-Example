@@ -21,3 +21,4 @@ h = ord('A') # char to unicode
 i = chr(98) # unicode to character
 
 print(x, a, b, c, d, e, f, g, h, i, sep="\n")
+guigfiugfofgiugwugffr
