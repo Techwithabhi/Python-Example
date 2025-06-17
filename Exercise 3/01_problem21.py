@@ -29,7 +29,6 @@ it = prime_generator(x)
 
 for e in it:
     print(e, end=" ")
-    cgfxhg   jhvjhvvjhv
 
 ######################################################################################################################################################
 ## Program to check if a given number is prime or not?
