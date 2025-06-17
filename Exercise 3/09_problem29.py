@@ -14,5 +14,3 @@ def fun():
     print("Local x = %d  global x = %d " %(x,d['x']))
 
 fun()
-
-iodshvih;vooihfcle
