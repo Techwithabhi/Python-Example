@@ -29,7 +29,7 @@ print(add(1, 3))
 print(add(1, 9, 2, 8, 6, 4))
 
 ##############################################################################
-jhvyuvcfyuv
+
 print('\nEXP - 3\n')
 
 # 3. Using functools.singledispatch
