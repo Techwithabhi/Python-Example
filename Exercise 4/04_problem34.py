@@ -21,5 +21,3 @@ while True:
         break
 
 print(even_list)
-
-uyvguguygyigyi
