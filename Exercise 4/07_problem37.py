@@ -24,4 +24,3 @@ from sortedcontainers import SortedList
 l3 = SortedList(l1)
 l3.add(45)
 print(l3)
-76f68fgiu7g
