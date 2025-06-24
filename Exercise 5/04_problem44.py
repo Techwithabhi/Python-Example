@@ -9,4 +9,3 @@ for e in l1:
         l2.append(e)
 
 print(l2)
-giujhrijh cfbfbbf
