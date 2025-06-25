@@ -7,4 +7,4 @@ if num % 2 == 0:
 
 else:
     print(f"Number {num} is a Odd Number")
-    sfsdgfd
+
