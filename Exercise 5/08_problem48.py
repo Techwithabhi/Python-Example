@@ -8,4 +8,3 @@ elif x == 0:
     print("Your number was 0")
 else:
     print(f"Number {x} is a negative number.")
-    etrytr
