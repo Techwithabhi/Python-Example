@@ -10,3 +10,4 @@ class test:
 t1 = test() # no need to provide the arguments
 print(t1.a, t1.b) 
 
+kjsaufuas
