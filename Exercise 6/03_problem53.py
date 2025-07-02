@@ -15,8 +15,7 @@ def tri(n):
             num += 1
             
         print()
-
-
+        
 n = int(input("Enter a number: "))
 tri(n)
 
