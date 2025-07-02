@@ -17,7 +17,7 @@ def apha(n):
         print()
 
 apha(5)
-
+tryutrjutrh
 ############## OR ################
 
 s = int(input("Enter a number: "))
