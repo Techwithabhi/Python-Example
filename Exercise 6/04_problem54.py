@@ -17,7 +17,7 @@ def apha(n):
         print()
 
 apha(5)
-rfg;lsmdg;o
+
 ############## OR ################
 
 s = int(input("Enter a number: "))
