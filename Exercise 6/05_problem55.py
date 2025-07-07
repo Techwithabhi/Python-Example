@@ -9,7 +9,7 @@ E   E   E   E   E   E   E   E   E
 
 def apha(n):
     p = 65
-  89g97igo8goi
+  
     for i in range(n):
         for j in range(i, n):
             print(" ", end=" ")
