@@ -6,7 +6,7 @@
     D   D   D   D   D   D   D
 E   E   E   E   E   E   E   E   E
 '''
-isdigfboisf
+
 def apha(n):
     p = 65
   
