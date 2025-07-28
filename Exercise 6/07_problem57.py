@@ -7,7 +7,6 @@
  A  B  C  D  E 
 '''
 
-
 def apha(n):
     num = 65
     for i in range(n):
