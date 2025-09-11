@@ -1,29 +1,30 @@
-## Check if a number is duck number or not. Number which has zeros present in it.
+## Check if the number is Neon number. Number, digits of whose sueare are equal to the number itself.
 '''
-A Duck Number is a positive number that contains at least one zero, but does not start with zero.
-
 Example:
 
-    1023 → ✅ Duck number (has a zero, not at the start)
+    Take n = 9
+    Square of 9 = 81
+    8 + 1 = 9 ✅ So, 9 is a Neon Number
 
-    089 → ❌ Not a Duck number (starts with zero)
+    Take n = 1
+    square of 1 = 1
+    1 = 1 ✅ Also a Neon Number
 
-    4005 → ✅ Duck number (zero is not leading)
-
+    Take n = 7
+    Square of 7 = 49
+    4 + 9 = 13 ❌ Not a Neon Number
 '''
 
-n = 100120
-m = n
-count = 0
+n = 9
+m = n ** 2
+sum = 0
 
 while m != 0 :
     d = m % 10
+    sum = sum + d
     m = m // 10
-    if d == 0 : 
-        count += 1
-        
-if count > 0 :
+    
+if sum == n :
     print("YES")
 else:
     print("NO")
-print("No of zeros in number: ",count)
