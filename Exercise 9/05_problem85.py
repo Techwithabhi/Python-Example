@@ -1,4 +1,3 @@
-## Hello decreasing triangle
 
 n = 9
 
